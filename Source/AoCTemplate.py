@@ -12,6 +12,6 @@ def SolveDayPartB(filepath):
 
     return 0
 
-filePath = "C:\\dev\\AdventOfCode2022\\Input\\Day1.txt"
+filePath = "C:\\dev\\AdventOfCode2023\\Input\\Day1.txt"
 print_count(SolveDayPartA(filePath))
 print_count(SolveDayPartB(filePath))
